@@ -1,0 +1,107 @@
+{
+  "name": "Alignment",
+  "die" : "1d100",
+  "hide": "false",
+  "rows": [{
+    "name": "@Compendium[alignment.3naiIBPY2rfdzmtf]{Adaption - Mayhem}",
+    "description": "<p><strong>ORDER:</strong> Your eccentricity is pronounced. Your mind is curious. Your perceptive powers are formidable. You are, in fact, a savant, and find that your interests change as quickly as the weather. Whether a mimic, a sycophant or simply easily distracted, you adapt to new and changing social dynamics with ease.</p>\n<hr>\n<p><strong>CHAOS:</strong> You have a lack of focus and an idiosyncrasy that practically invites chaos into the lives of all who come into contact with you. Worse still, you thrive off the social turmoil you cause. Not meant to necessarily imply the wanton spilling of blood, mayhem is a general whirlwind of confusion that follows your actions.</p>",
+    "range": [1, 4]
+  }, {
+    "name": "@Compendium[alignment.HgAy7uI0xhJre20p]{Ambition - Tyranny}",
+    "description": "<p><strong>ORDER:</strong> You are driven to such an extent that no obstacle can possibly withstand your doggedness, as the crashing sea wears rocks into sand. You know what you want out of life and don’t just hope to acquire it. In your mind, it simply will be. It is a trait you have shared with the greatest of all men: king, scholar, and warrior alike.</p>\n<hr>\n<p><strong>CHAOS:</strong> A natural leader, certainly, but towards all the wrong ends. You inspire those who listen to your words into a hateful fervor and possess a paranoid and vindictive streak that could almost certainly be your undoing.</p>",
+    "range": [5, 8]
+  }, {
+    "name": "@Compendium[alignment.AfHObJdexfMAnVv7]{Candor - Cruelty}",
+    "description": "<p><strong>ORDER:</strong> You are direct and steady, a firm believer in the marriage of words and deeds. Others treat your proclamations with the greatest respect and never doubt that you mean what you say.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your willingness to act on your words is vicious, potentially even vile. For others, to follow you or know your presence is to invite the pain you willingly impart.</p>",
+    "range": [9, 12]
+  }, {
+    "name": "@Compendium[alignment.TIhzplKxHg82uq5s]{Charity - Pity}",
+    "description": "<p><strong>ORDER:</strong> Your heart thrives on the notion that it is morally just to provide for the needs of others. While certain charlatans will attempt to prey upon your good will, your generosity will win you many friends and favors in return.</p>\n<hr>\n<p><strong>CHAOS:</strong> What you view as kind and giving, others view as condescending and mocking. You will never be accepted by those to whom you offer your hand in aid, as their perceptions were formed by generations of mistrust. What you naively view as good-hearted others view as manipulative and self-serving.</p>",
+    "range": [13, 16]
+  }, {
+    "name": "@Compendium[alignment.rXXuUa0TcA2s4EAT]{Compassion - Melancholy}",
+    "description": "<p><strong>ORDER:</strong> You empathize with the struggles of others and offer your personal strength to those who lack it, defending any cause that you determine pure and just. You will inspire others to proudly rise up, and wise parents will offer your example to their children to help them sleep at night.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your empathy for the pain of others affects you too deeply, clouding your focus and weakening your resolve. Your depression may manifest in many forms, from general social withdrawal to crippling anxiety to dangerous indecisiveness.</p>",
+    "range": [17, 20]
+  }, {
+    "name": "@Compendium[alignment.dz6aHxdvRg3LcDNg]{Cunning - Deceit}",
+    "description": "<p><strong>ORDER:</strong> Your mind is slippery and tactical, manipulating those whom you interact with towards ends you find favorable. You have a sharp instinct for escaping a parlay gone sour and never appear unnerved.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your trickery and lies make you untrustworthy and unsavory to others and you are unlikely to be accepted as proper company. Friends are hard to come by as your words have no true value, and your machinations may entrap you in the end.</p>",
+    "range": [21, 24]
+  }, {
+    "name": "@Compendium[alignment.W6Lp3x0eDAOGdEgh]{Dignity - Vehemence}",
+    "description": "<p><strong>ORDER:</strong> You are composed and unflappable, a model of decency and proper behavior in even the most trying and delicate circumstances. You are likely to be trusted as someone who behaves in a way befitting their station, whatever that may be.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your drive for personal gain will crush many beneath its bloated weight, friend, foe and kin alike. You possess the strictest selfishness. Any means is justified, as long as it fulfills your desires. In your mind, sacrifice is the price others pay to fulfill your vision.</p>",
+    "range": [25, 28]
+  }, {
+    "name": "@Compendium[alignment.1WkvnQoEfT4aPbLJ]{Diplomacy - Hypocrisy}",
+    "description": "<p><strong>ORDER:</strong> You fully understand the art of a true compromise and that words can be manipulated to achieve the necessary results. You are never single-mindedly committed to any course, recognizing that one must change with the tides of fate. This oft puts you a step ahead of those who are bound to illusory ideals.</p>\n<hr>\n<p><strong>CHAOS:</strong> Others see you for what you are; a charlatan and a liar, unwilling or unable to be held to your words. Your judgments and insights are seen as false, unlikely to be followed or trusted.</p>",
+    "range": [29, 32]
+  }, {
+    "name": "@Compendium[alignment.Yf5EmqFM63eIJqEv]{Duty - Fatalism}",
+    "description": "<p><strong>ORDER:</strong> You have taken an oath, whether personal or formal, that guides your actions in all things. No amount of trickery, intimidation or bribery will sway you from your promises. Your dedication to one single ideal or task will follow you to your grave, no matter how soon or distant that may be.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your dedication to a single ideal has twisted your idea of free will. Fate cannot be influenced by the actions of man. This stark world view can lead to inaction, a dark, gallows humor and a harsh lack of empathy for the suffering of others.</p>",
+    "range": [33, 36]
+  }, {
+    "name": "@Compendium[alignment.aRvQUQnAezoiJqYO]{Enlightenment - Detachment}",
+    "description": "<p><strong>ORDER:</strong> Spiritual purity, recognition and meditation have given you an inner peace that no man or god can shake. You have accepted your place in society through simple indifference, acknowledging the acts of man as temporary and overwrought.</p>\n<hr>\n<p><strong>CHAOS:</strong> To the bulk of others, you are something of a mad hermit, too busy stargazing to notice or engage the realities of the world. Your thoughts are vague and muddled, offering no comfort or benefit to those forced to survive in the here and now.</p>",
+    "range": [37, 40]
+  }, {
+ 
+    "name": "@Compendium[alignment.ozc9S22rmYecxB2A]{Ferocity - Hatred}",
+    "description": "<p><strong>ORDER:</strong> The will you possess is capable of moving mountains and comes with such a rush of passion and vigor that others are often forced into stunned awe. You are unlikely to break under torture or mental duress, possessing a well of emotional strength that at times seems unending.</p>\n<hr>\n<p><strong>CHAOS:</strong> The anger you barely contain explodes at inopportune times, burning all those close to you, both friend and foe alike. As such, you are likely to inspire hatred in those who have felt your abuse and seemingly calm situations may spiral out of control due to your impulses.</p>",
+    "range": [41, 44]
+  }, {
+    "name": "@Compendium[alignment.L8dFGAJkuG7kEAR1]{Gentility - Cowardice}",
+    "description": "<p><strong>ORDER:</strong> Your simplicity is indicative of a pure heart, and never are your goals or desires second-guessed. You are most easily trusted and never taken as a threat, often to the eventual chagrin of those who misjudge you.</p>\n<hr>\n<p><strong>CHAOS:</strong> You are passive and cautious to the point of being almost crippled with fear of conflict, unwilling to exert your meager will in even very favorable situations. Others will prey upon you, bullying their wills upon you and you will never inspire more than pity among anyone else.</p>",
+    "range": [45, 48]
+  }, {
+    "name": "@Compendium[alignment.vEi9NrrW8y8DuQaQ]{Gravitas - Vanity}",
+    "description": "<p><strong>ORDER:</strong> You have an aura of charisma, a depth of knowledge and great confidence; your words carry weight as others fully put stock in your abilities. You can inspire men or terrify them, but either way, they will listen.</p>\n<hr />\n<p><strong>CHAOS:</strong> Your dedication to your own self perfection is haughty and unseemly, and reflects your ugly judgment of those you see as lesser than you &ndash; which seems to be most everyone. The beautiful and accomplished will envy and hate you, the ugly and lazy will just skip straight to the hate.</p>",
+    "range": [49, 52]
+  }, {
+    "name": "@Compendium[alignment.ezFQRbIvrvxB4A5l]{Heroism - Martyrdom}",
+    "description": "<p><strong>ORDER:</strong> Willing and able to make the ultimate sacrifice in a world where it may not matter, you are unafraid of facing overwhelming odds and draw personal strength from it. You recognize the value of the needs of the many.</p>\n<hr>\n<p><strong>CHAOS:</strong> You are possessed with a dedication towards ending your life in a way that you view befits your destiny. You are not just willing to offer yourself as sacrifice, you pursue that day with a morbid zeal, eagerly anticipating the day you can turn yourself into a fable.</p>",
+    "range": [53, 56]
+  }, {
+    "name": "@Compendium[alignment.NGF65nRBDCBRDS8M]{Humility - Incompetence}",
+    "description": "<p><strong>ORDER:</strong> You are self-aware and cautious, aware of the limitations of your own abilities and those of others. Your quiet nature does not attract the attention of predators and tends to place you in advantageous situations.</p>\n<hr>\n<p><strong>CHAOS:</strong> Foolish and without value is how others see you. Your simple, soft-spoken nature is the result of years of your egregious mistakes drawing the ire of others and creating needless complications Either way, no one will view you as capable or trust you with anything but the most menial of tasks.</p>",
+    "range": [57, 60]
+  }, {
+    "name": "@Compendium[alignment.qDfrObfZ2HXGuAIH]{Impiety - Heresy}",
+    "description": "<p><strong>ORDER:</strong> No god has fed your belly or filled your mug, nor will they make you stand on your feet or open your eyes in the morning. You are aggressively self-reliant and resistant to the manipulation of those who would have you bend your knee to an invisible man in the sky.</p>\n<hr>\n<p><strong>CHAOS:</strong> Unclean and wicked thing! Your actions are irreverent to the point of blasphemy and those who witness or know your nature will either be afraid of being banished to hell with you (or do their best to hasten that arrival).</p>",
+    "range": [61, 64]
+  }, {
+    "name": "@Compendium[alignment.bybNBLyfwNUoBn1x]{Independence - Rebellion}",
+    "description": "<p><strong>ORDER:</strong> You have no time for kings, princes, silly outfits or the edicts of the powerful. As such, you’re unlikely to get caught up in petty politics.</p>\n<hr>\n<p><strong>CHAOS:</strong> Alack, your intentions are valueless, traitor! You are an enemy to the crown and your actions are viewed as undermining the established order of peace. Your chances of being put down in a particularly horrible manner – as an example to others – are quite great.</p>",
+    "range": [65, 68]
+  }, {
+    "name": "@Compendium[alignment.8SFdbJjsoXMfJHf0]{Mystery - Exclusion}",
+    "description": "<p><strong>ORDER:</strong> You are an outsider and a bemused misunderstanding of your ways and culture help you sidestep all sorts of inconveniences. Your social situation is unclear, and therefore the paths before you are many – an advantage afforded to very few.</p>\n<hr>\n<p><strong>CHAOS:</strong> You are bizarre and exotic in a way most unsavory to those who expect a certain decorum, while those of the lowest station will find you uncomfortable at best and an outright threat at worse. You are likely to run afoul of the law and offend courts. Perhaps worst of all: you have a tendency to be noticed.</p>",
+    "range": [69, 72]
+  }, {
+    "name": "@Compendium[alignment.x7gQXa5NEhcQtA8l]{Pride - Arrogance}",
+    "description": "<p><strong>ORDER:</strong> Your deeds are associated with the very quality of your name. Everything you do is an extension of your prowess and will in a quest for self-perfection. In your eyes nothing less will do. This dedication will serve you well in many respects, and garner the admiration and praise of many.</p>\n<hr>\n<p><strong>CHAOS:</strong> You are haughty and disliked and your inflated sense of self-worth is an insult to others. You are inclined to view yourself as more capable than you are and others will be more than willing to correct your mistakes.</p>",
+    "range": [73, 76]
+  }, {
+    "name": "@Compendium[alignment.nN6ZNR1HgvFioRlt]{Romanticism - Lechery}",
+    "description": "<p><strong>ORDER:</strong> You are amorous but dignified, a great pleasure to be around and viewed as charming and clever. You make excellent company at dinner parties and know great songs for bawdy taverns. Whether a harmless rake or a flattering lady, you are well-liked in almost any company. Your imagination and lust for life flies in the face of contemporary social norms and your company is highly sought after because of this.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your lust is insatiable and your predilections for physical, base needs tend to overwhelm your judgment. Perhaps worse, your taste in matters of the flesh can range from the unconventional to the unholy or even the sadistic.</p>",
+    "range": [77, 80]
+  }, {
+    "name": "@Compendium[alignment.cBaLkcY89poMxU7n]{Skepticism - Cynicism}",
+    "description": "<p><strong>ORDER:</strong> Nothing is as it seems, a lesson you’ve learned all too well and one that others seem too willing to repeatedly fail. You know better than to take anything at face value, believing in what your own eyes tell you and nothing more. Playing devil’s advocate serves almost no risk and potentially offers greater reward.</p>\n<hr>\n<p><strong>CHAOS:</strong> Your absolute lack of faith has led you to many losses in your life: opportunities, love, wealth and friendship. While others leave the ship of despair and strive for a shore not visible, you take sick comfort that many of them will drown.</p>",
+    "range": [81, 84]
+  }, {
+    "name": "@Compendium[alignment.FfhmVT01TvWI3Yqd]{Sophistication - Indulgence}",
+    "description": "<p><strong>ORDER:</strong> Your appreciation of the finer things is more than just a way to impress others. You are not a snob, as you appreciate pleasures of all kinds and class, acknowledging quality wherever it exists. In addition, your knowledge makes you well-rounded and culturally accepted.</p>\n<hr>\n<p><strong>CHAOS:</strong> You unbecomingly pursue creature comforts with a sick zeal, taking far more than your share and greedily hoarding so that you can fulfill any want. You are the target of many a guttersnipe who will want to fill your belly and head with ideas… and empty your coin purse.</p>",
+    "range": [85, 88]
+  }, {
+    "name": "@Compendium[alignment.7DNvru6LNJR0lPWv]{Wisdom - Rancor}",
+    "description": "<p><strong>ORDER:</strong> You do not possess more knowledge than others; this simple realization is the pillar upon which your advanced insight is perched. You patiently ruminate on a great number of contributing factors, think first and speak later.</p>\n<hr>\n<p><strong>CHAOS</strong>: Regardless of a full head of hair or an upright back or smooth skin, at heart, you are old, cantankerous and cranky, set so firmly in your own knowledge and experiences that you snidely and openly dismiss others. You are viewed as a single minded codger, incapable and stodgy.</p>",
+    "range": [89, 92]
+  }, {
+    "name": "@Compendium[alignment.vS26jJnD8JI0TcUF]{Wit - Scorn}",
+    "description": "<p><strong>ORDER:</strong> There is a science and an art to the way of words. Regardless of your proficiency with the former, you are a master of playfully manipulating the latter. Your cleverness can make mirth and stem the tide of an uncomfortable shift in a social engagement. Such mannerisms draw a willing audience to your charms.</p>\n<hr />\n<p><strong>CHAOS:</strong> You are in love with the very sound of your own voice, and no one is more impressed with your wordy bon mots than you are. Your barbs are weapons and you employ them liberally. You had best hope that you save a particularly saucy one for your tombstone, because you well might need it!</p>",
+    "range": [93, 96]
+  }, {
+    "name": "@Compendium[alignment.FepnLGZCrL2Eq4Dd]{Zeal - Fanaticism}",
+    "description": "<p><strong>ORDER:</strong> Your dedication to religious undertaking helps lead many a soul to greater understanding and provides the lost with a path to salvation and a sense of belonging. Others will be wary of crossing you, for it is believed that to cross you is to invite the wrath of higher judgment.</p>\n<hr>\n<p><strong>CHAOS:</strong> The hand of either a just or cruel god, your unwavering dogma will cause the suffering and misfortune of many you come into contact with. You are the personification of oppressive thought and will be viewed as a symbol of such. You shall be feared, but as a monster that must be hunted.</p>",
+    "range": [97, 100]
+  }]
+}

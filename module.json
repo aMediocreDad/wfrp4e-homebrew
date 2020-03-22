@@ -1,0 +1,45 @@
+{
+  "name": "wfrp4e-homebrew",
+  "title": "Warhammer Fantasy Roleplay 4th Edition: Homebrew",
+  "description": "This module contains a bunch of homebrew",
+  "version": "0.1",
+  "author": "aMediocreDad",
+  "systems": [
+    "wfrp4e"
+  ],
+  "scripts": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "alignment",
+      "label": "Alignments",
+      "path": "packs/alignment.db",
+      "entity": "Item",
+      "module": "wfrp4e-homebrew",
+      "system": "wfrp4e",
+      "tag" : "psychology"
+    }
+	{
+	"name": "alignmentsexplained",
+	"label": "Alignments Explained",
+	"path": "packs/alignmentsexplained.db",
+	"entity": "journal",
+	"module": "wfrp4e-homebrew",
+	"system": "wfrp4e",
+	"tag" : "psychology"
+	}
+	{
+	"name": "starsigns",
+	"label": "Starsigns",
+	"path": "packs/starsigns.db",
+	"entity": "item",
+	"module": "wfrp4e-homebrew",
+	"system": "wfrp4e",
+	"tag" : "psychology"
+	}	
+  ],
+  "url": "https://github.com/wfrp4e-homebrew",
+  "minimumCoreVersion": "0.4.5",
+  "manifest": "https://raw.githubusercontent.com/wfrp4e-homebrew/master/module.json",
+  "download": "https://github.com/wfrp4e-homebrew/archive/master.zip"
+}
